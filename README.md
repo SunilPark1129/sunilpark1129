@@ -38,6 +38,7 @@ I am a Front-End developer based in New Jersey. I've been coding as a hobby sinc
 - Three.js + Blender
 - Learn more about React Native
 - Teach JavaScript
+- Create Popup Extensions
 
 ## Fun fact about me
 
