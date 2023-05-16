@@ -40,14 +40,6 @@ I am a Front-End developer based in New Jersey. I've been coding as a hobby sinc
 - Teach JavaScript
 - Create Popup Extensions
 
-## Fun fact about me
-
-The process of learning a language from childhood to the present.<br>
-```
-Visual Basic -> Assembly Language -> C++ -> Python -> JavaScript (Current)
-```
-I don't know why and I want to ask why I studied like this in the past, but fortunately because of hobby in the past, I was able to easily understand algorithms while learning JavaScript.
-
 ## Where to find me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunilPark1129?tab=repositories)
