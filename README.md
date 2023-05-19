@@ -33,7 +33,6 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 - Next-js
 - Tailwind CSS
 - Docker
-- Post at least one article about JavaScript algorithm
 
 ## My final goal
 
@@ -42,6 +41,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 - Learn more about React Native
 - Teach JavaScript
 - Create Popup Extensions
+- Post articles about JavaScript algorithm
 
 ## Where to find me
 
