@@ -48,7 +48,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunilPark1129?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-park-a99927210/)
 
-See my portfolio - [Link](https://sunilpark-portfolio.netlify.app/)<br>
+View my portfolio - [Link](https://sunilpark-portfolio.netlify.app/)<br>
 
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
