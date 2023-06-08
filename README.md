@@ -49,6 +49,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-park-a99927210/)
 
 View my portfolio - [Link](https://sunilpark-portfolio.netlify.app/)<br>
+Email me - sunlipark1129@gmail.com
 
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
