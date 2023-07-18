@@ -30,10 +30,11 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 
 ## Currently I'm insteresting in
 
-- Seeking Job
-- Tailwind CSS
-- Docker
-- Java
+- [ ] Seeking Job
+- [x] ~~Next.js~~
+- [ ] Tailwind CSS
+- [ ] Docker
+- [ ] Java
 
 ## My final goal
 
