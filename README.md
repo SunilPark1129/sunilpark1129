@@ -38,7 +38,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 
 ## My final goal
 
-- Fullstack developer
+- Fullstack Software Engineer
 - Three.js + Blender
 - Learn more about React Native
 - Teach JavaScript
