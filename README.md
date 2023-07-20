@@ -48,7 +48,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 ## Where to find me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunilPark1129?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-park-a99927210/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-park-0723a5275/)
 
 View my portfolio - [Link](https://sunilpark-portfolio.netlify.app/)<br>
 Email me - sunilpark1129@gmail.com
