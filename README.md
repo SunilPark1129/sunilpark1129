@@ -37,7 +37,7 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 - [x] ~~Next.js~~
 - [ ] Tailwind CSS
 - [ ] Docker
-- [x] Redux
+- [x] ~~Redux~~
 
 ## My final goal
 
