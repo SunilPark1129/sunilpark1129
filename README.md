@@ -52,8 +52,8 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 
 Portfolio - [https://www.sparkportfolio.com/](https://sparkportfolio.com/)<br>
 Email - sunilpark1129@gmail.com<br>
-LinkedIn - [https://www.linkedin.com/in/sunilpark1129](https://www.linkedin.com/in/sunilpark1129)/<br>
-Github - [https://github.com/SunilPark1129?tab=repositories](https://github.com/SunilPark1129?tab=repositories)
+LinkedIn - [https://www.linkedin.com/in/sunilpark1129/](https://www.linkedin.com/in/sunilpark1129/)<br>
+Github - [https://github.com/SunilPark1129?tab=repositories/](https://github.com/SunilPark1129?tab=repositories)
 
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
