@@ -31,7 +31,7 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Currently I'm interested in
+## Currently I'm interested in 🤔
 
 - [ ] Seeking Job
 - [x] ~~Next.js~~
@@ -39,7 +39,7 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 - [ ] Docker
 - [x] ~~Redux~~
 
-## My final goal
+## My final goal 🔭
 
 - Fullstack Software Engineer
 - Three.js + Blender
@@ -51,9 +51,9 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 ## Where to find me
 
 Portfolio - [https://www.sparkportfolio.com/](https://sparkportfolio.com/)<br>
-Email - sunilpark1129@gmail.com
-LinkedIn - https://www.linkedin.com/in/sunilpark1129/
-Github - https://github.com/SunilPark1129?tab=repositories
+Email - sunilpark1129@gmail.com<br>
+LinkedIn - [https://www.linkedin.com/in/sunilpark1129](https://www.linkedin.com/in/sunilpark1129)/<br>
+Github - [https://github.com/SunilPark1129?tab=repositories](https://github.com/SunilPark1129?tab=repositories)
 
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
