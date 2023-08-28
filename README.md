@@ -50,11 +50,10 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 
 ## Where to find me
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunilPark1129?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilpark1129/)
-
-View my portfolio - [https://www.sparkportfolio.com/](https://sparkportfolio.com/)<br>
-Email me - sunilpark1129@gmail.com
+Portfolio - [https://www.sparkportfolio.com/](https://sparkportfolio.com/)<br>
+Email - sunilpark1129@gmail.com
+LinkedIn - https://www.linkedin.com/in/sunilpark1129/
+Github - https://github.com/SunilPark1129?tab=repositories
 
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
