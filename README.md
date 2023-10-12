@@ -44,7 +44,7 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 
 ## New Hobby 😄
 
-- I challenge myself to create the same website by participating in the daily challenges provided by iCodeThis website.
+- I challenge myself to create the same UI by participating in the daily challenges provided by iCodeThis website.
 
 ## Where to find me 💬
 
