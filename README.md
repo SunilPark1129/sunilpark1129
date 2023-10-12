@@ -7,7 +7,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 
 Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 
-## Technology Used
+## Technology Used ⚡
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +42,11 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 - Create Popup Extensions
 - Post articles about JavaScript algorithm
 
-## Where to find me
+## New Hobby 😄
+
+- I challenge myself to create the same website by participating in the daily challenges provided by iCodeThis website.
+
+## Where to find me 💬
 
 Portfolio - [https://www.sparkportfolio.com](https://sparkportfolio.com/)<br>
 Email - sunilpark1129@gmail.com<br>
