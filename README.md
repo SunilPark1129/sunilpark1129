@@ -44,7 +44,7 @@ Brief self-introduction - [Link](https://sp-intro.netlify.app/)
 
 ## New Hobby 😄
 
-- I challenge myself to create the clone UI or webpage by participating in the daily challenges provided by iCodeThis website.
+- I challenge myself to create the clone UI or webpage by participating in the daily challenges provided by iCodeThis website. [LINK](https://icodethis.com/Sunil)
 
 ## Where to find me 💬
 
