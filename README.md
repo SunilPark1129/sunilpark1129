@@ -5,8 +5,6 @@ I have been coding as a hobby since I was young. Now, I have dedicated myself to
 If given a task, no matter how challenging the process or how much work it requires, I take responsibility and strive to complete the project perfectly. It is not only my strongest asset but also my obligation.<br><br>
 Since coding is both a hobby and a passion for me, I enjoy studying and learning about coding.
 
-Brief self-introduction - [Link](https://sp-intro.netlify.app/)
-
 ## Technology Used ⚡
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
