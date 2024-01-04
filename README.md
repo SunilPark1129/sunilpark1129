@@ -32,6 +32,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My final goal 🔭
 
@@ -50,8 +51,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 
 Portfolio - [https://www.sparkportfolio.com](https://sparkportfolio.com/)<br>
 Email - sunilpark1129@gmail.com<br>
-LinkedIn - [https://www.linkedin.com/in/sunilpark1129](https://www.linkedin.com/in/sunilpark1129/)<br>
-Projects - [https://github.com/SunilPark1129?tab=repositories](https://github.com/SunilPark1129?tab=repositories)
+LinkedIn - [https://www.linkedin.com/in/sunilpark1129](https://www.linkedin.com/in/sunilpark1129/)
 
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
