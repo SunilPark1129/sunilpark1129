@@ -46,6 +46,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 ## New Hobby 😄
 
 - I challenge myself to create the clone UI and landing page by participating in the daily challenges provided by iCodeThis website. [LINK](https://icodethis.com/Sunil)
+- I've developed a hobby of trying out various things on Figma.
 
 ## Where to find me 💬
 
