@@ -42,6 +42,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 - Teach JavaScript
 - Create Popup Extensions
 - Post articles about JavaScript algorithm
+- Learn about photoshop tools
 
 ## New Hobby 😄
 
