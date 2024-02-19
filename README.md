@@ -34,7 +34,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## My final goal 🔭
+## Things I'm interested in and would like to learn or do later 🔭
 
 - Fullstack Software Engineer
 - Three.js + Blender
@@ -43,6 +43,8 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 - Create Popup Extensions
 - Post articles about JavaScript algorithm
 - Learn about Photoshop and Illustrator
+- Learn more details about WAI-ARIA
+- CMS (Shopify, Wordpress, Joomla)
 
 ## New Hobby 😄
 
