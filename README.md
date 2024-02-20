@@ -34,6 +34,13 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## My Strong Skills 🌱
+
+- Crafting responsive web designs for any website.
+- Transforming wireframes and design mockups into functional UI components.
+- Enhancing web performance effectively on the frontend.
+- Proficient in independent problem-solving.
+
 ## Things I'm interested in and would like to learn or do later 🔭
 
 - Fullstack Software Engineer
