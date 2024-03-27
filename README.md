@@ -45,6 +45,7 @@ Since coding is both a hobby and a passion for me, I enjoy studying and learning
 
 ## Things I'm interested in and would like to learn or do later 🔭
 
+- Learn about Sora AI
 - Fullstack Software Engineer
 - Three.js + Blender
 - Learn more about React Native
