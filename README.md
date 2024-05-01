@@ -1,9 +1,10 @@
 # Hi, I'm Sunil Park 👋
 
-I am a Front-End developer based in New Jersey.<br><br>
-I have been coding as a hobby since I was young. Now, I have dedicated myself to studying and becoming a front-end developer, and I am <b>currently looking for front-end</b> positions. My current goal is to learn and gain more knowledge while working in the field.<br><br>
-If given a task, no matter how challenging the process or how much work it requires, I take responsibility and strive to complete the project perfectly. It is not only my strongest asset but also my obligation.<br><br>
-Since coding is both a hobby and a passion for me, I enjoy studying and learning about coding.
+Passionate software engineer with expertise in frontend development. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 2 years of experience in frontend development.<br/>
+
+As an experienced frontend developer, I am proficient in HTML5, CSS3, JavaScript, React, SCSS, Styled-Components, TailwindCSS, Material UI, REST APIs, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node-JS, Git, GitHub, Figma, Three-JS, R3F.<br/>
+
+Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving and quickly picking up new skills.
 
 ## Technology Used ⚡
 
