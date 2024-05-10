@@ -49,20 +49,19 @@ Throughout my career, I have honed my skills in crafting responsive web designs,
 
 - Learn about Sora AI
 - Fullstack Software Engineer
-- Three.js + Blender
+- <del>Three.js</del>
 - Learn more about React Native
 - Teach JavaScript
 - Create Popup Extensions
 - Post articles about JavaScript algorithm
 - Learn about Photoshop and Illustrator
-- Learn more details about WAI-ARIA
-- CMS (Shopify, Wordpress, Joomla)
+- Next.js
+- Machine Learning
 
 ## New Hobby 😄
 
 - I challenge myself to create the clone UI and landing page by participating in the daily challenges provided by iCodeThis website. [LINK](https://icodethis.com/Sunil)
 - I've developed a hobby of trying out various things on Figma.
-- Designing models in R3F
 
 ## Where to find me 💬
 
