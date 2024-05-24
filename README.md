@@ -18,6 +18,7 @@ Throughout my career, I have honed my skills in crafting responsive web designs,
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![R3F](https://img.shields.io/badge/r3f-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/restful_api-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -34,6 +35,8 @@ Throughout my career, I have honed my skills in crafting responsive web designs,
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <!--
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
@@ -48,15 +51,14 @@ Throughout my career, I have honed my skills in crafting responsive web designs,
 ## Things I'm interested in and would like to learn or do later 🔭
 
 - Learn about Sora AI
-- Fullstack Software Engineer
+- Become a fullstack software engineer
 - <del>Three.js</del>
 - Learn more about React Native
-- Teach JavaScript
+- <del>Teach JavaScript</del>
 - Create Popup Extensions
 - Post articles about JavaScript algorithm
 - Learn about Photoshop and Illustrator
-- Next.js
-- Machine Learning
+- <del>Next.js</del>
 
 ## New Hobby 😄
 
