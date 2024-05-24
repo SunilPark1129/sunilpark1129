@@ -2,7 +2,7 @@
 
 Passionate software engineer with expertise in frontend development. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 2 years of experience in frontend development.<br/>
 
-As an experienced frontend developer, I am proficient in HTML5, CSS3, JavaScript, React, SCSS, Styled-Components, TailwindCSS, Material UI, REST APIs, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node-JS, Git, GitHub, Figma, Three-JS, R3F.<br/>
+As an experienced frontend developer, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel<br/>
 
 Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving and quickly picking up new skills.
 
@@ -20,8 +20,7 @@ Throughout my career, I have honed my skills in crafting responsive web designs,
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![RESTful API](https://img.shields.io/badge/restful_api-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![REST](https://img.shields.io/badge/REST-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
