@@ -61,6 +61,7 @@ Throughout my career, I have honed my skills in crafting responsive web designs,
 
 ## New Hobby 😄
 
+- I found a new hobby. Creating a song with AI. Listen to my songs [Link](https://sp-song.netlify.app/)
 - I challenge myself to create the clone UI and landing page by participating in the daily challenges provided by iCodeThis website. [LINK](https://icodethis.com/Sunil)
 - I've developed a hobby of trying out various things on Figma.
 
