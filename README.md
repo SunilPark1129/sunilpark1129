@@ -1,6 +1,6 @@
 # Hi, I'm Sunil Park 👋
 
-Passionate software engineer with expertise in frontend development. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 2 years of experience in frontend development.<br/>
+Passionate software engineer with expertise in frontend development. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 3 years of experience in frontend development.<br/>
 
 As an experienced frontend developer, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel<br/>
 
