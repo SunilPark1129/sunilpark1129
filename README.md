@@ -2,6 +2,8 @@
 
 Passionate software engineer with expertise in frontend development. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 3 years of experience in frontend development.<br/>
 
+I have had a passion for coding since I was young and began learning it independently. While attending university, I took coding classes to deepen my knowledge. After graduating, I continued to self-study and focused on web development. I am deeply passionate about coding and consistently seek creative solutions for better web performance.<br/>
+
 As an experienced frontend developer, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel<br/>
 
 Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving and quickly picking up new skills.
