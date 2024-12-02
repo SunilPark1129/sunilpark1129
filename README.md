@@ -68,6 +68,8 @@ Design and Prototyping:<br />
 - Transforming wireframes and design mockups into functional UI components.
 - Enhancing web performance effectively on the frontend.
 - Proficient in independent problem-solving.
+- Quick and deep learner of coding concepts.
+- Skilled at teaching coding effectively and enjoy discussing and sharing knowledge about coding.
 
 ## Things I'm interested in and would like to learn or do later 🔭
 
