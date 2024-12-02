@@ -1,12 +1,12 @@
 # Hi, I'm Sunil Park 👋
 
-Passionate software engineer with expertise in frontend development. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 3 years of experience in frontend development.<br/>
+Passionate software engineer with expertise in frontend development and full-stack capabilities. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 3 years of experience in frontend development.<br />
 
-I have had a passion for coding since I was young and began learning it independently. While attending university, I took coding classes to deepen my knowledge. After graduating, I continued to self-study and focused on web development. I am deeply passionate about coding and consistently seek creative solutions for better web performance.<br/>
+I have had a passion for coding since I was young and began learning it independently. While attending university, I took coding classes to deepen my knowledge. After graduating, I continued to self-study and focused on web development. I am deeply passionate about coding and consistently seek creative solutions for better web performance.<br />
 
-As an experienced frontend developer, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel, Heroku, Render<br/>
+As an experienced frontend developer with full-stack potential, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel, Heroku, Render.<br />
 
-Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving and quickly picking up new skills.
+Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving, quickly picking up new skills, and contributing to both frontend and backend development.<br />
 
 ## Technology Used ⚡
 
@@ -62,7 +62,7 @@ Design and Prototyping:<br />
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 -->
-## My Strong Skills 🌱
+## My Strong Skills ✨
 
 - Crafting responsive web designs for any website.
 - Transforming wireframes and design mockups into functional UI components.
@@ -83,7 +83,7 @@ Design and Prototyping:<br />
 - Learn about Photoshop and Illustrator
 - <del>Next.js</del>
 
-## New Hobby 😄
+## New Hobby 😄🌱
 
 - I’m deeply passionate about creating a wide variety of apps using AI APIs these days!
 - Creating songs with AI. I've also created an audio player website for my songs: [https://sp-song.netlify.app/](https://sp-song.netlify.app/)<br />You can control playback with these keyboard shortcuts: 'p' to pause/start, 'arrow left/right' to skip tracks, 'arrow up/down' to adjust volume, and 'm' to mute. These controls also work if you're playing the songs in your car using the car audio player's buttons.
