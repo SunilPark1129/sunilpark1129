@@ -85,6 +85,7 @@ Design and Prototyping:<br />
 
 ## New Hobby 😄🌱
 
+- I absolutely love discussing coding and find great joy in teaching it to others.
 - I’m deeply passionate about creating a wide variety of apps using AI APIs these days!
 - Creating songs with AI. I've also created an audio player website for my songs: [https://sp-song.netlify.app/](https://sp-song.netlify.app/)<br />You can control playback with these keyboard shortcuts: 'p' to pause/start, 'arrow left/right' to skip tracks, 'arrow up/down' to adjust volume, and 'm' to mute. These controls also work if you're playing the songs in your car using the car audio player's buttons.
 - I challenge myself to create the clone UI and landing page by participating in the daily challenges provided by iCodeThis website: [LINK](https://icodethis.com/Sunil)
