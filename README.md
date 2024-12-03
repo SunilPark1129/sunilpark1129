@@ -80,7 +80,7 @@ Design and Prototyping:<br />
 - <del>Teach JavaScript</del>
 - Create Popup Extensions
 - <del>Post articles about JavaScript algorithm</del>
-- Learn about Photoshop and Illustrator
+- <del>Learn about Photoshop and Illustrator</del>
 - <del>Next.js</del>
 
 ## New Hobby 😄🌱
