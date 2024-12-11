@@ -75,7 +75,7 @@ Design and Prototyping:<br />
 
 ## Things I'm interested in and would like to learn or do later 🔭
 
-- Learn about Sora AI
+- <del>Learn about Sora AI</del>
 - <del>Become a fullstack software engineer</del>
 - <del>Three.js</del>
 - Learn more about React Native
