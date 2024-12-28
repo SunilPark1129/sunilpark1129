@@ -1,6 +1,6 @@
 # Hi, I'm Sunil Park 👋
 
-Passionate software engineer with expertise in frontend development and full-stack capabilities. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 3 years of experience in frontend development.<br />
+Passionate software engineer with expertise in frontend development and full-stack capabilities. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 4 years of experience in frontend development.<br />
 
 <!--I have had a passion for coding since I was young and began learning it independently. While attending university, I took coding classes to deepen my knowledge. After graduating, I continued to self-study and focused on web development. I am deeply passionate about coding and consistently seek creative solutions for better web performance.<br />-->
 
