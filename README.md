@@ -1,12 +1,23 @@
 # Hi, I'm Sunil Park 👋
 
-Passionate software engineer with expertise in frontend development and full-stack capabilities. Graduated from Rutgers University - New Brunswick, majored in Information Technology; 4 years of experience in frontend development.<br />
+Passionate software engineer with expertise in frontend development and full-stack capabilities.<br />
+
+My main focus is building web applications using React, and I often work with tools like Redux and Next.js. For styling, I usually use Sass or Tailwind CSS depending on the project needs.<br/>
+
+I also have backend experience with Node.js, Express, and MongoDB.<br/>
+
+As a frontend developer, I care a lot about building responsive and high-performance applications that are SEO-friendly. I also pay attention to accessibility, code quality, and scalability to deliver best values for the clients and users.<br/>
+
+I enjoy collaborating with designers to make their ideas into interactive, reusable UI components. At the same time, I like working with backend teams to make sure the client-server communication is seamless.<br/>
+
+Beyond coding, I really value teamwork and improving the overall development process. And I’m always open to learning new technologies and applying them to build better applications.
+
 
 <!--I have had a passion for coding since I was young and began learning it independently. While attending university, I took coding classes to deepen my knowledge. After graduating, I continued to self-study and focused on web development. I am deeply passionate about coding and consistently seek creative solutions for better web performance.<br />-->
 
-As an experienced frontend developer with full-stack potential, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel, Heroku, Render.<br />
+<!-- As an experienced frontend developer with full-stack potential, I am proficient in HTML5, CSS3, JavaScript, React, Next.js, SCSS, Styled-Components, TailwindCSS, MUI, REST, Redux, React Query, Recoil, Zustand, TypeScript, Jest, JSDoc, Node.js, Git, GitHub, Figma, Three.js, R3F, Netlify, Vercel, Heroku, Render.<br /> -->
 
-Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving, quickly picking up new skills, and contributing to both frontend and backend development.<br />
+<!-- Throughout my career, I have honed my skills in crafting responsive web designs, transforming wireframes and design mockups into seamless UI components, and optimizing web performance for enhanced user experiences. Additionally, I excel at problem-solving, quickly picking up new skills, and contributing to both frontend and backend development.<br /> -->
 
 <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" height="200" />
 
