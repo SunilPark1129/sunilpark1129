@@ -87,6 +87,7 @@ Design and Prototyping:<br />
 - <del>Post articles about JavaScript algorithm</del>
 - <del>Learn about Photoshop and Illustrator</del>
 - <del>Next.js</del>
+- <del>Build custom Libraray</del>
 
 ## New Hobby 😄🌱
 
@@ -96,12 +97,12 @@ Design and Prototyping:<br />
 - I challenge myself to create the clone UI and landing page by participating in the daily challenges provided by iCodeThis website: [LINK](https://icodethis.com/Sunil)
 - I've developed a hobby of trying out various things on Figma.
 
+<!--
 ## Where to find me 💬
-
 Portfolio - [https://www.sparkportfolio.com](https://sparkportfolio.com/)<br>
 Email - sunilpark1129@gmail.com<br>
 LinkedIn - [https://www.linkedin.com/in/sunilpark1129](https://www.linkedin.com/in/sunilpark1129/)
-
+-->
 <!--
 **SunilPark1129/sunilpark1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
