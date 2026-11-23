@@ -93,7 +93,6 @@ Design and Prototyping:<br />
 - <del>Learn about Sora AI</del>
 - <del>Become a fullstack software engineer</del>
 - <del>Three.js</del>
-- Learn more about React Native
 - <del>Teach JavaScript</del>
 - Create Popup Extensions
 - <del>Post articles about JavaScript algorithm</del>
