@@ -5,7 +5,7 @@ https://sp-aboutme.netlify.app/
 
 Passionate software engineer with expertise in frontend development and full-stack capabilities.<br />
 
-My main focus is building web applications using React, and I often work with tools like Redux and Next.js. For styling, I usually use Sass or Tailwind CSS depending on the project needs.<br/>
+My main focus is building web applications using React and Next.js. For styling, I usually use Sass or Tailwind CSS depending on the project needs.<br/>
 
 I also have backend experience with Node.js, Express, and MongoDB.<br/>
 
